@@ -1,0 +1,3 @@
+VPC created on Thứ hai, 10 Tháng 7 năm 2023 15:38:32 +07 and VPC ID: vpc-0412d9fe04366c902
+VPC created on Thứ ba, 11 Tháng 7 năm 2023 08:42:06 +07 and VPC ID: vpc-02a6e6948ae9f4dc0
+VPC created on Thứ tư, 12 Tháng 7 năm 2023 09:25:44 +07 and VPC ID: vpc-024b77ae9f350ec38
